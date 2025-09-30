@@ -31,7 +31,7 @@ git init
 git status
 
 # Creates a connection between your local repository and this remote repository.
-git add remote origin <INSERT LINK IN NEXT COMMIT BECAUSE I'M LAZY>
+git add remote origin https://github.com/BenBastianelli/PSLG_Slides.git
 
 # To copy all the files into you're local repository
 git clone origin 
