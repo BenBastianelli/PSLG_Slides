@@ -30,11 +30,8 @@ git init
 # Check if it was initiialised correctly, you should see anything but an error pop up
 git status
 
-# Creates a connection between your local repository and this remote repository.
-git add remote origin https://github.com/BenBastianelli/PSLG_Slides.git
-
 # To copy all the files into you're local repository
-git clone origin 
+git clone https://github.com/BenBastianelli/PSLG_Slides.git 
 ```
 
 **andddddddddddddddddd youre done!** Give yourself a pat on the back, now what I'm hoping will happen in the future is someone will be entrusted at the end of your term to collect as many of your years students slides as humanly possible (hopefully someone with git knowledge) and they will then push all these slides into new directories and sub-directories partitioned in the same fashion I have mine.
